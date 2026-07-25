@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
             {
               text: "為什麼是 Git？",
               desc: "版本控制是整個自動化流程的起點，所以課程從它開始。",
-              done: true,
+              done: false,
             },
             {
               text: "為什麼不學 AI 就好？",
