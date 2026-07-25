@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "Richard123老師",
-    lang: "JavaScript",
+    lang: "TypeScript",
   },
   sections: [
     {
